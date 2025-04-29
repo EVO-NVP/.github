@@ -25,7 +25,7 @@ Agar siz biz bilan ishlashni yoki loyihalarimizga hissa qo‘shishni istasangiz,
 
 Agar savollar yoki takliflaringiz bo‘lsa, biz bilan quyidagi manzillar orqali bog‘laning:
 
-- Email: info@evo.uz
+- Telegram: [EvoTeam](https://t.me/evoteamuz)
 - Web: [evoteam.uz](https://www.evoteam.uz/)
 
 ---
